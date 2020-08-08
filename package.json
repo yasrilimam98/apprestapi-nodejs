@@ -1,0 +1,25 @@
+{
+  "name": "apprestapi-nodejs",
+  "version": "1.0.0",
+  "description": "Aplikasi rest api node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasrilimam98/apprestapi-nodejs.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Yasril Imam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasrilimam98/apprestapi-nodejs/issues"
+  },
+  "homepage": "https://github.com/yasrilimam98/apprestapi-nodejs#readme"
+}
