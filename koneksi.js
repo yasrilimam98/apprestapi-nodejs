@@ -6,9 +6,11 @@ const conn = mysql.createConnection({
     user:'root',
     password:'',
     database:'dbrestapi'
-});
+}); 
 // Membuat kondisi jika database tidak terkoneksi / error
 conn.connect((err)=>{
 if(err) throw err;
 console.log('Mysql terkoneksi');
-})
+});
+// Menjadi kan modul database
+module.export = conn;
